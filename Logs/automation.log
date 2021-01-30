@@ -8,3 +8,15 @@
 2021-01-30 09:39:00,200 - ERROR - ********** Home Page Title Test is failed **********
 2021-01-30 09:39:21,630 - INFO - ********** Verifying Login Test **********
 2021-01-30 09:39:52,776 - ERROR - ********** Login Test is failed **********
+2021-01-30 18:34:34,520 - INFO - ********** Test_001_Login **********
+2021-01-30 18:34:34,617 - INFO - ********** Verifying Home Page Title **********
+2021-01-30 18:34:57,869 - ERROR - ********** Home Page Title Test is failed **********
+2021-01-30 18:35:04,719 - INFO - ********** Verifying Login Test **********
+2021-01-30 18:35:39,944 - ERROR - ********** Login Test is failed **********
+2021-01-30 18:38:36,043 - INFO - ********** Verifying Login Test **********
+2021-01-30 18:39:51,759 - ERROR - ********** Login Test is failed **********
+2021-01-30 18:45:21,326 - INFO - ********** Test_001_Login **********
+2021-01-30 18:45:21,359 - INFO - ********** Verifying Home Page Title **********
+2021-01-30 18:45:42,409 - INFO - ********** Home Page Title Test is passed **********
+2021-01-30 18:46:06,279 - INFO - ********** Verifying Login Test **********
+2021-01-30 18:46:23,947 - INFO - ********** Login Test is passed **********
