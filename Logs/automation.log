@@ -3,3 +3,8 @@
 2021-01-29 07:06:09,131 - ERROR - ********** Home Page Title Test is failed **********
 2021-01-29 07:06:18,175 - INFO - ********** Verifying Login Test **********
 2021-01-29 07:06:39,920 - ERROR - ********** Login Test is failed **********
+2021-01-30 09:38:35,083 - INFO - ********** Test_001_Login **********
+2021-01-30 09:38:35,191 - INFO - ********** Verifying Home Page Title **********
+2021-01-30 09:39:00,200 - ERROR - ********** Home Page Title Test is failed **********
+2021-01-30 09:39:21,630 - INFO - ********** Verifying Login Test **********
+2021-01-30 09:39:52,776 - ERROR - ********** Login Test is failed **********

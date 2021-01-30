@@ -8,7 +8,6 @@ class Test_001_Login:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
-
     logger = LogGen.loggen()
 
     def test_homePageTitle(self,setup):
