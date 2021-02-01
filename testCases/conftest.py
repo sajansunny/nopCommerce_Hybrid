@@ -9,6 +9,9 @@ def setup(browser):
     elif browser == "firefox":
         driver = webdriver.Firefox(executable_path=".\\Configurations\\Drivers\\geckodriver.exe")
         print("Launching Firefox browser..")
+    else:
+        driver = webdriver.Ie(executable_path=".\\Configurations\\Drivers\\IEDriverServer.exe")
+        print("Launching IE browser..")
     return driver
 
 def pytest_addoption(parser):
