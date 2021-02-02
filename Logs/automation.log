@@ -34,3 +34,8 @@
 2021-02-01 08:11:36,653 - INFO - ********** Test_001_Login **********
 2021-02-01 08:11:37,312 - INFO - ********** Verifying Home Page Title **********
 2021-02-01 08:16:44,002 - INFO - ********** Verifying Login Test **********
+2021-02-02 06:21:54,596 - INFO - ********** Test_001_Login **********
+2021-02-02 06:21:54,609 - INFO - ********** Verifying Home Page Title **********
+2021-02-02 06:22:13,552 - INFO - ********** Home Page Title Test is passed **********
+2021-02-02 06:22:19,243 - INFO - ********** Verifying Login Test **********
+2021-02-02 06:22:51,284 - INFO - ********** Login Test is passed **********
